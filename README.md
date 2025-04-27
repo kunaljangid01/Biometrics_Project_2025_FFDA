@@ -11,6 +11,8 @@ Initial Code taken from ["Unlearnable Examples: Making Personal Data Unexploitab
 Download the pretrained checkpoint (20180408-102900-casia-webface.pt) from the link given below and put it in this directory.
 https://drive.google.com/file/d/142xmAIzllQh40c22tGSsWH4JfsbI52AY/view?usp=sharing
 
+### Datasets
+Pre-split of CIFAR-10 and CIFAR-100 for training and test sets are used. For PubFig and Pins-101, we randomly split into 80:20 for training and test sets.
 
 ## Experiments.
 Check scripts folder for *.sh for each corresponding experiments.
