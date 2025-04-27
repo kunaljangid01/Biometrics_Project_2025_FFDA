@@ -1,11 +1,15 @@
 
-# Biometrics Project 2025 (DSE-622)
+# Biometrics Project 2025 (DSE-622)   by KUNAL JANGID
 
 
 # FFDA: Fourier-Based Frequency Domain Attacks for Optimizing Unlearnable Datasets 
 
 
 Initial Code taken from ["Unlearnable Examples: Making Personal Data Unexploitable "](https://openreview.net/forum?id=iAmZUo0DxC0) by Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, James Bailey, Yisen Wang.
+
+
+Download the pretrained checkpoint (20180408-102900-casia-webface.pt) from the link given below and put it in this directory.
+https://drive.google.com/file/d/142xmAIzllQh40c22tGSsWH4JfsbI52AY/view?usp=sharing
 
 
 ## Experiments.
