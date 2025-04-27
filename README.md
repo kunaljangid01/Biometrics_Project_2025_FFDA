@@ -1,5 +1,5 @@
 
-# Biometrics Project 2025 (DSE-622)   by KUNAL JANGID
+# Biometrics Project 2025 (DSE-622)   - KUNAL JANGID
 
 
 # FFDA: Fourier-Based Frequency Domain Attacks for Optimizing Unlearnable Datasets 
